@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="user">1758982XXXX</string>
+    <string name="loginkey">请输入登录密码</string>
+    <string name="login_btn">登录</string>
+    <string name="toggleAuthentication">切换验证方式</string>
+    <string name="findpass">找回密码</string>
+    <string name="froze">紧急冻结</string>
+    <string name="more">更多</string>
+
+</resources>
