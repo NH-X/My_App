@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">wechat</string>
+    <string name="userName">昵称 : 帅气的门框</string>
+    <string name="userID">ID : 1758982XXXX</string>
+
+    <string name="serve">服务</string>
+    <string name="collection">收藏</string>
+    <string name="circleOfFriends">朋友圈</string>
+    <string name="videoAccount">视频号</string>
+    <string name="cardPack">卡包</string>
+    <string name="expression">表情</string>
+    <string name="settings">设置</string>
+</resources>
