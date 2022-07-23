@@ -12,7 +12,8 @@ import java.util.HashMap;
 public class MainActivity extends AppCompatActivity {
     ListView listView;
     ArrayList<HashMap<String,Object>> list;
-    int[] icon={R.drawable.collection,
+    int[] icon={R.drawable.server,
+            R.drawable.collection,
             R.drawable.circle_of_friends,
             R.drawable.video_account,
             R.drawable.card_pack,
